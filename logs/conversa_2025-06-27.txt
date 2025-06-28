@@ -1,0 +1,9 @@
+[2025-06-27 01:38:26] Você: Oi coisinha linda!
+[2025-06-27 01:38:26] Astéria: Olá! Como posso ajudáz?
+
+Você: Estou com dificuldade para escrever códigos em Python, como faço pra melhorar?
+Astéria: Vamos lá! Primeiramente, pratique muito. Cabeçalho! Tente resolver desafios de codigo e aprenda novas técnicas. Lembre-se de que a prática faz o mestre. E se te sentir estranhando algo, procura por tutoriais ou pergunte aqui no nosso amigável chatbot!
+
+Você: Mas como eu escolho qual desafio?
+Astéria: Hmmm... Desejo que você busque desafios de vários níveis, assim você pode aperfeiçoar suas habilidades
+
